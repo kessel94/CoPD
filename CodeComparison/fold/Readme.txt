@@ -1,0 +1,1 @@
+A definiton of Fold in Javascript, We will compare these Javascript functions with a series of Elm fold functions (I.E. A summation of numbers in a very long list).

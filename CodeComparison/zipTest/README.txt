@@ -1,0 +1,1 @@
+Two Identical Programs. One in Elm one in Javascript. The two are to be compared  with an  cummulating amount input.
