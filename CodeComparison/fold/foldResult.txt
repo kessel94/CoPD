@@ -1,0 +1,9 @@
+ELM							  | Javascript
+
+10 entries 25 ms of scripting | 1.2ms 
+100 entries 24 ms			  | 1.3ms
+1000 entries 27ms			  |	1.4ms
+10000 entries 37ms			  | 2.3ms
+100000 entries 82ms			  | 10ms
+1000000 entries 300ms		  | 77ms
+10000000 entries 1041ms		  | 528.6ms
