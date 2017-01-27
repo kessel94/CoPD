@@ -1,2 +1,0 @@
-These snippets are going to be studied to see how the elm compiler enforces type checking. The examples are a form and an implementation of mergesort.
-The code is also going to be tested against pure Javascript.
